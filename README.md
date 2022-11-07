@@ -1,7 +1,7 @@
 ### Recursion 25
 
 1. Create an algorithm and the corresponding program (in C ) to:
-From the 1st keyboard, the real numbers X (X<1) and  (0<<1) are entered;
+From the 1st keyboard, the real numbers X (|X|<1) and  (0 < e < 1) are entered;
 2. Using a recursive function, a real array A is formed
        elements
  A0  = 1,                 
